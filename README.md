@@ -2,7 +2,7 @@
 - 👀 I’m interested in automotive simulation
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me patricktruszkowski2005@gmail.com
 
 <!---
 PatrickTruszkowski/PatrickTruszkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
